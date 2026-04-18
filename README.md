@@ -22,8 +22,3 @@ Daily financial data (2012–2024) from Yahoo Finance:
 - Dynamic systemic risk visualization
 
 ![Performance](performance2.png)
-## Performance
-## 🚀 How to Run
-```bash
-pip install -r requirements.txt
-python src/main.py
