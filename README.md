@@ -23,9 +23,8 @@ Daily financial data (2012–2024) from Yahoo Finance:
 
 ![Performance](performance2.png)
 
-## How to Run
+## 🚀 How to Run
+
 ```bash
 pip install -r requirements.txt
 python src/main.py
-
-
