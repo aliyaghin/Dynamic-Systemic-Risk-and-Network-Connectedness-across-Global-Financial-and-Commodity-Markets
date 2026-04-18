@@ -26,17 +26,3 @@ Daily financial data (2012–2024) from Yahoo Finance:
 pip install -r requirements.txt
 python src/main.py
 
----
-
-# ⚙️ 3) requirements.txt
-
-```txt
-pandas
-numpy
-yfinance
-matplotlib
-arch
-statsmodels
-hmmlearn
-networkx
-
