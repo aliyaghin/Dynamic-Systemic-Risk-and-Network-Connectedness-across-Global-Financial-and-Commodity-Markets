@@ -23,6 +23,8 @@ Daily financial data (2012–2024) from Yahoo Finance:
 
 ![Performance](performance2.png)
 
+## Performance
+
 ## 🚀 How to Run
 
 ```bash
